@@ -49,7 +49,6 @@ function overlay_attribute(text_rows)
         }}
     end
     if #t == 0 then
-        print(inspect(text_rows))
         for k, v in pairs(text_rows) do
             if v == true then
                 t[#t+1] = {n=G.UIT.R, config={align = "cm"}, nodes={
