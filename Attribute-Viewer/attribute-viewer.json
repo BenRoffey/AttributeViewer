@@ -1,0 +1,16 @@
+{
+	"id": "attribute_viewer",
+	"name": "Attribute Viewer",
+	"author": [ "Ben Roffey" ],
+	"description": "A lightweight mod that enables you to view Joker attributes in the collection.",
+	"prefix": "av",
+	"main_file": "attribute-viewer.lua",
+	"badge_colour": "6982A6",
+	"badge_text_colour": "FFFFFF",
+	"version": "1.0.0",
+	"priority": 0,
+	"dependencies": [
+		"Steamodded (>=1.0.0~BETA-1606b)",
+		"Lovely (>=0.9)"
+	]
+}
